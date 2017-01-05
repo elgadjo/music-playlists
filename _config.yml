@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
+title:       Music Playlists
 email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      Elgadjo Ridiculo
+description: "Music for your ears"
 baseurl:     ""
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
