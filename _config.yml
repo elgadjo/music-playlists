@@ -3,8 +3,8 @@ title:       Music Playlists
 email:       elgadjo@example.com
 author:      Elgadjo Ridiculo
 description: "Music for your ears"
-baseurl:     "/music-playlists/"
-url:         "https://elgadjo.github.io"
+baseurl:     ""
+url:         "https://elgadjo.github.io/music-playlists/"
 date_format: "%b %-d, %Y"
 
 # Google services
