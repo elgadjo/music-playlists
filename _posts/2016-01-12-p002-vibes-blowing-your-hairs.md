@@ -1,4 +1,10 @@
-# playlist 002 - Vibes in your hairs
+---
+layout:     post
+title:      Vibes blowing your hairs
+date:       2016-01-25 12:34:56
+categories: playlist
+summary:    Classical and Progressive Rock
+---
 
 ## Chris Isaak
 
