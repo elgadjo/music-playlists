@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Rock That Cold Wednesday
+title:      Rock that cold wednesday
 date:       2016-01-05 12:32:18
 categories: playlist
-summary:    Classical and Progressive Rock
+summary:    "Playlist 001 : Classical and Progressive Rock"
 ---
 
 ## Marc Bolan & T.Rex
