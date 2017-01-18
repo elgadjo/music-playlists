@@ -23,6 +23,8 @@ summary:    "Playlist 001 : Classical and Progressive Rock"
   &nbsp;&nbsp; [▷ play](https://www.youtube.com/watch?v=6eByMZJ9ueA)
 * You are so beautiful
   &nbsp;&nbsp; [▷ play](https://www.youtube.com/watch?v=b4jwprFiDeU)
+* Summer in the city
+  &nbsp;&nbsp; [▷ play](https://www.youtube.com/watch?v=VGs7_Ttv-jU)
 * N'oubliez jamais
   &nbsp;&nbsp; [▷ play](https://www.youtube.com/watch?v=YtISqOjbR4Q)
 
