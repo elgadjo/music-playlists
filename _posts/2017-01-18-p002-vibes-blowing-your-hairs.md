@@ -6,7 +6,7 @@ categories: playlist
 summary:    "Playlist 002 : Classical and Progressive Rock"
 ---
 
-[Full playlist](https://www.youtube.com/playlist?list=PLGPZCTmUoT74hIyA7fDZIoB3mT18wlw7v)
+[▷ play the full playlist](https://www.youtube.com/playlist?list=PLGPZCTmUoT74hIyA7fDZIoB3mT18wlw7v)
 
 
 ## Janis Joplin
